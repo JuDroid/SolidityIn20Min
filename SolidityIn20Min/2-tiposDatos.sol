@@ -10,7 +10,7 @@ contract contratoTiposDatos {
     //de una variable por eso ponemos "tipoDato nombre = valor" 
 
     uint enteroSinSigno = 5;
-    int entero = 5;
+    int entero = -5;
     string cadenaCaracteres = "ramdomCaracteres12345";
     bool boolean = true;
     address myAddress = 0x6b387D25703Ce7BeD2c9e5eBd781c777a0d65b3D;
